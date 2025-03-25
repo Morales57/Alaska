@@ -1,5 +1,5 @@
 //Programa que presenta las operaciones básicas
-//Creado por Charli Nieves 
+//Creado por Wilfrido 
 //Fecha: 22-09-2022
 #include<iostream>
 using namespace std;
